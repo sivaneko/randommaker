@@ -1,6 +1,3 @@
-$(function(){
-    $('.display').append("<p class='block'>129898</p>");
-});
 $('#button').click(function(){
     function getRandam(n, m, x){
         for (let i = 0 ; i < x ; i++){
